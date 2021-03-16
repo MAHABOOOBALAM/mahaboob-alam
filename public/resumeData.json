@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Mahaboob Alam",
+    "occupation":"Student",
+    "description":"I love playing cricket",
+    "image":"profilepic.jpg",
+    "bio":"I am currently studying BCA in Bhairahawa Multiple Campus. I love playing cricket and I love programming.",
+    "contactmessage":"",
+    "email": "m9847089147@gmail.com",
+    "phone": "9811584405",
+    "address":{
+      "street":"Buddhachowk",
+      "city":"Bhairahawa",
+      "state":"Lumbini",
+      "zip": "(32900)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/alambhai123/",
+        "className":"fa fa-facebook"
+      },
+
+      {
+        "name":"github",
+        "url":"https://github.com/MAHABOOOBALAM",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my skills.",
+    "education":[
+      {
+        "school":"Bhairahawa Multiple Campus",
+        "degree":"Bachelor in Computer Application",
+        "graduated":"2023",
+        "description":"In this college I learned programming languages and scope of programming in future"
+      },
+      {
+        "school":"Tilottama Campus",
+        "degree":"ISC",
+        "graduated":"2018",
+        "description":"In this college I learned about scientific research"
+      }
+    ],
+    "work":[
+      {
+        "company":"Chaudhary steels",
+        "title":"Marketing",
+        "years":"2019 - Present",
+        "description":"In this company i am learning about business"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"30%"
+      },
+    
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
